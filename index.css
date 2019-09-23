@@ -1,0 +1,78 @@
+.page {
+    width: 800px;
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+.infophoto {
+    height: 300px;
+}
+
+.info {
+    float: left;
+}
+
+.photo {
+    float: right;
+}
+
+.section {
+    margin-bottom: 70px;
+}
+
+.sec-gauche {
+    float: left;
+}
+
+.sec-droite {
+    margin-left: 150px;
+}
+
+strong {
+    font-size: 26px;
+}
+
+.section {
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+h2 {
+    font-size: 28px;
+    color: #3388BB;
+    text-transform: uppercase;
+    border-bottom: 3px solid #3388DD;
+}
+
+.sec-gauche {
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sec-droite {
+    margin-left: 150px;
+}
+
+.titre {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#forma-gauche p {
+    margin-bottom: 37;
+}
+
+.sec-droite {
+    margin-left: 150px;
+    margin-top: 37;
+}
+
+#exp-gauche p {
+    margin-top: 32px;
+}
+
+body {
+    background-color: #CCCCCC;
+}
